@@ -1,9 +1,9 @@
 ### About Marshall
 
 - 🔭 I currently work at @Calendly on the CX Ops team building support products.
-- 📫 How to reach me: marshallhahn.com/contact
+- 📫 How to reach me: [marshallhahn.com/contact](https://marshallhahn.com/contact)
 - 😄 Pronouns: he/him
-- ✨ You can follow me on Twitter: @marshallhahn
+- ✨ You can follow me on Twitter: [@marshallhahn.com](https://twitter.com/marshallhahn)
 
 
 <!--
