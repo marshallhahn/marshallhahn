@@ -1,8 +1,9 @@
 ### About Marshall
 
-- 🔭 I currently work at @Calendly on the CX Ops team building support products.
+- 🔭 I currently work at [@Calendly](https://calendly.com/) on the CX Ops team building support products.
+- ⏳ I am currently working on a side project in my free time called [Church Studio](https://church.studio/) which will provide various tools for churches of all sizes.
+- 🖤 I also co-founded and help manage [Perspective](https://getperspective.io/), which is a search tool for finding relevant mental health tools.
 - 📫 How to reach me: [marshallhahn.com/contact](https://marshallhahn.com/contact)
-- 😄 Pronouns: he/him
 - ✨ You can follow me on Twitter: [@marshallhahn](https://twitter.com/marshallhahn)
 
 #### Links
