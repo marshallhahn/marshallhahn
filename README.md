@@ -5,6 +5,12 @@
 - 😄 Pronouns: he/him
 - ✨ You can follow me on Twitter: [@marshallhahn](https://twitter.com/marshallhahn)
 
+#### Links
+- [LinkedIn](https://linkedin.com/in/marshallhahn)
+- [Certifications](https://marshallhahn.com/certifications)
+- [Projects](https://marshallhahn.com/work)
+- [GoRails Profile](https://gorails.com/users/33376)
+
 
 <!--
 **marshallhahn/marshallhahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
