@@ -1,4 +1,10 @@
-### Hi there 👋
+### About Marshall
+
+- 🔭 I currently work at @Calendly on the CX Ops team building support products.
+- 📫 How to reach me: marshallhahn.com/contact
+- 😄 Pronouns: he/him
+- ✨ You can follow me on Twitter: @marshallhahn
+
 
 <!--
 **marshallhahn/marshallhahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
