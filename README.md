@@ -1,7 +1,7 @@
 ### About Marshall
 
 - 🔭 I currently work at [@Calendly](https://calendly.com/) as a Full Stack Engineer.
-- 🖤 I manage [Perspective](https://getperspective.netlify.app/), a search tool that I created with a friend of mine to aid in surfacing mental health tools.
+- 🖤 I manage [Perspective](https://perspective.netlify.app/), a search tool that I created with a friend of mine to aid in surfacing mental health tools.
 - 📫 How to reach me: [marshallhahn.com/contact](https://marshallhahn.com/contact)
 - ✨ You can follow me on Twitter: [@marshallhahn](https://twitter.com/marshallhahn)
 
