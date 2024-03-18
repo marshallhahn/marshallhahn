@@ -1,23 +1,12 @@
-### About Marshall
+## Hi, I'm Marshall Hahn 👋
 
-- 🗓️ I currently work at [@Calendly](https://calendly.com/) as a Full Stack Engineer.
-- 📫 How to reach me: [marshallhahn.com/contact](https://marshallhahn.com/contact)
+I'm a full stack engineer based out of Seattle, Washington 🏔️
 
-#### Links
-- [LinkedIn](https://linkedin.com/in/marshallhahn)
-- [Website](https://marshallhahn.com)
+### What I'm Working On
 
-<!--
-**marshallhahn/marshallhahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📅 [Calendly](https://calendly.com/) – Meeting Lifecycle and Scheduling Automation Platform (I work here)
+- 📚 [Bibleflare](https://bibleflare.com/) – Collaborative Bible reading platform connecting churches with their congregations (Founder)
 
-Here are some ideas to get you started:
+### Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Marshall Hahn's LinkedIn">](https://linkedin.com/in/marshallhahn) [<img src="https://img.shields.io/badge/Website-EF4444?style=for-the-badge" alt="Marshall Hahn's Website">](https://marshallhahn.com)
